@@ -5,7 +5,7 @@ tagline:
 ---
 {% include JB/setup %}
 
-## Setting up your Workspace
+## Goals/Objectives
 
 For our workshops, we will be using a few applications to download, manipulate, visualize and store our data. This section covers how to 
 get your workspace configured for the bootcamp. 
@@ -18,6 +18,8 @@ get your workspace configured for the bootcamp.
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+
+## More Resources
 
 
 
