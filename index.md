@@ -9,7 +9,7 @@ tagline:
 
 For our workshops, we will be using a few applications to download, manipulate, visualize and store our data. This section covers how to 
 get your workspace configured for the bootcamp. 
-
+ 
 
 ## Topics
 
