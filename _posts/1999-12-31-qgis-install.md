@@ -2,7 +2,7 @@
 title: "Installing QGIS"
 layout: post
 category: Setup
-tags: [intro, QGIS]
+tags: [intro, qgis, install, setup]
 ---
 
 {% include JB/setup %}
@@ -15,7 +15,7 @@ tags: [intro, QGIS]
 
 In order to demonstrate the lessons, we will need to download and install QGIS
 
-The QGIS download can be found [here.](http://www.qgis.org/en/site/forusers/download.html)
+The QGIS download can be found <a href="http://www.qgis.org/en/site/forusers/download.html" target="_blank">here</a>.
 
 (Note: This installation will require 1.3GB of disk space and can take 10-20 minutes to install.)
 
@@ -47,7 +47,9 @@ If you are using OS X, make sure to install the *GDAL Complete 1.11 framework pa
 
 ### Linux
 
-You can find the installation instructions for your distro [here.](http://qgis.org/en/site/forusers/alldownloads.html#linux)
+![tux]({{BASE_PATH}}{{ASSET_PATH}}/images/tux.png)
+
+You can find the installation instructions for your distro <a href="http://qgis.org/en/site/forusers/alldownloads.html#linux" target="_blank">here</a>.
 
 I would recommend the choosing the stable branch to minimize the risk of running into errors during the exercises.
 
