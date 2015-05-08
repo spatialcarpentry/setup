@@ -11,6 +11,8 @@ tags: [intro, qgis, install, setup]
 
 #### This section will walk you through the process of installing QGIS.
 
+<br>
+
 ![qgisHome]({{BASE_PATH}}{{ASSET_PATH}}/images/qgis-home.png)
 
 In order to demonstrate the lessons, we will need to download and install QGIS
@@ -37,8 +39,6 @@ We won't need the sample datasets for our exercises, so you can leave them unche
 
 ![qgisWindowsComponents]({{BASE_PATH}}{{ASSET_PATH}}/images/qgis-windows-components.png)
 
-
-
 ### OS X
 
 If you are using OS X, make sure to install the *GDAL Complete 1.11 framework package* before installing QGIS.
@@ -52,4 +52,3 @@ If you are using OS X, make sure to install the *GDAL Complete 1.11 framework pa
 You can find the installation instructions for your distro <a href="http://qgis.org/en/site/forusers/alldownloads.html#linux" target="_blank">here</a>.
 
 I would recommend the choosing the stable branch to minimize the risk of running into errors during the exercises.
-
