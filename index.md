@@ -21,9 +21,9 @@ Once completed with this secion, you'll have an installation of QGIS on your com
 
 ## More Resources
 
-<ul class="more-resources">
+<ol class="more-resources">
 <li><a href="http://www.qgis.org/en/site/forusers/download.html" target="_blank">QGIS Download</a></li>
 <li><a href="https://user.iplantcollaborative.org/register/" target="_blank">iPlant Collaborative registration</a></li>
 <li><a href="https://github.com/BioComputing/irods-qgis/blob/master/README.md">About iRods-QGIS</a></li>
-</ul>
+</ol>
 
