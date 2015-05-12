@@ -5,7 +5,7 @@ tagline:
 ---
 {% include JB/setup %}
 
-## Goals/Objectives
+## Objectives
 
 For our worksops, we will be using a few applications to download, manipulate, visualize and store our data. 
 
@@ -18,6 +18,8 @@ Once completed with this secion, you'll have an installation of QGIS on your com
     <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ol>
+
+----
 
 ## More Resources
 
