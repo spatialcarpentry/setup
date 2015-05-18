@@ -7,9 +7,9 @@ tagline:
 
 ## Objectives
 
-For our worksops, we will be using a few applications to download, manipulate, visualize and store our data. 
+For our workshops, we will be using a few applications to download, manipulate, visualize and store our data. 
 
-Once completed with this secion, you'll have an installation of QGIS on your computer, a registered account at iPlant Collaborative to access the iPlant Data Store, and the iRods plugin for QGIS installed and configured for connecting to the iPlant Data Store.
+Once completed with this section, you'll have an installation of QGIS on your computer, a registered account at iPlant Collaborative to access the iPlant Data Store, and the iRods plugin for QGIS installed and configured for connecting to the iPlant Data Store.
 
 ## Topics
 
